@@ -1,6 +1,8 @@
 # Dice-Game
 Dice Simulation
 
+![Dice Image](https://miro.medium.com/max/800/1*4rY6GVqMP1Sgt5MHTwcl4Q.png)
+
 ##### Project Overview :
 
 In this series of three programming tasks, we will implement together a program that will play optimally in a tricky dice game! You program will be given a list of dices and will decide who chooses the dice first (you or your opponent).
